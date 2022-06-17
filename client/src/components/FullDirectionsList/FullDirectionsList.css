@@ -1,0 +1,23 @@
+.nameFull {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: 100;
+	text-align: center;
+	margin-top: -10px;
+	padding-bottom: 10px;
+}
+
+.codeFull,
+.scoreFull,
+.cost_of_education,
+.budget_places,
+.paid_places,
+.description {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	font-weight: 300;
+	margin-top: 5px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	line-height: 1.5;
+}

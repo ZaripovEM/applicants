@@ -1,0 +1,14 @@
+.logo_of_institutions {
+	float: left;
+	margin-top: -15px;
+}
+
+.directions li a {
+	display: block;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #212121;
+	font-size: 17px;
+	font-weight: 300;
+	text-decoration: none;
+}

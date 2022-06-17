@@ -1,0 +1,51 @@
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	color: #212121;
+	text-align: center;
+}
+
+.calendars_img {
+	display: flex;
+	justify-content: center;
+}
+
+.calendars_img img {
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+
+.table {
+	width: 70%;
+
+	display: block;
+	margin: 0px auto;
+}
+
+td {
+	border-bottom: #e9e9e9 solid 1px;
+}
+
+.date_in_table {
+	width: 10%;
+	text-align: center;
+
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+	color: #212121;
+	font-size: 17px;
+
+	padding: 20px 10px;
+}
+
+.information_in_table {
+	width: 90%;
+
+	line-height: 1.5;
+
+	font-family: 'Open Sans', sans-serif;
+	color: #212121;
+	font-size: 17px;
+	font-weight: 300;
+
+	padding: 20px 15px;
+}
